@@ -28,6 +28,7 @@ public class amazon {
 		//Thread.sleep(10000);
         WebElement del=driver.findElement(By.xpath("//*[@id=\"sc-item-C0a276160-a832-4efe-bcc7-1aa380a416e2\"]/div[4]/div/div[1]/div/div/div[2]/div/span[2]/span/input"));
         del.click();
-	}
+) 
+//sos
 
 }
